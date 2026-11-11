@@ -200,4 +200,4 @@ This repository serves as the official landing page for Space Empires IV Deluxe.
 **Get the most recent version of Space Empires IV Deluxe today!**
 
 ---
-**Last updated:** 2026-11-11 05:29:03 UTC
+**Last updated:** 2026-11-11 13:51:22 UTC
